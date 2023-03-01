@@ -1,0 +1,56 @@
+/* Stylesheet til 2. semester flow 3 */
+
+
+/* Fonte og skrifter */
+
+h1{
+    font-size: 28px;
+color:red;
+}
+
+h2{
+    font-size: 22px;
+    color:blue;
+}
+/* Mine regler (klasser) */
+
+#quote {
+    font-style: italic;
+    width: 200px;
+    margin-left: 25%;
+    border: 2px solid rebeccapurple;
+    padding: 10px;
+}
+
+#kussemars_unikke_regel{ /* Unikt id*/
+    font-size: 48px;
+}
+
+.minregel{ /* Punktum betyder det er en klase */
+    font-weight: bold;
+    font-style: italic;
+    color: green;
+}
+
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+
+}
+td{ /*table data*/
+    border: 1px solid black;
+    padding: 5px;
+}
+thead{
+    font-weight: bold;
+    background-color: silver;
+}
+
+/* inputformularer */
+
+
+/* forsiden */
+
+
+
+/* underside */
